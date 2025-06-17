@@ -1,4 +1,4 @@
-# systemDesign_class
+# systemDesign_project
 
 The bladeless small wind turbine system employs model-based design.
 
